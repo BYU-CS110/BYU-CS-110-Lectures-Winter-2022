@@ -2,7 +2,6 @@ name: lectures
 channels:
   - defaults
 dependencies:
-  - appnope
   - argon2-cffi
   - async_generator
   - attrs
@@ -87,4 +86,3 @@ dependencies:
   - zeromq
   - zipp
   - zlib
-prefix: /Users/zappala/opt/miniconda3/envs/lectures
