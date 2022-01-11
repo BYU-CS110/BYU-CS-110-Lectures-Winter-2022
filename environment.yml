@@ -50,7 +50,8 @@ dependencies:
   - parso
   - pexpect
   - pickleshare
-  - pip
+  - pip:
+    - byubit
   - prometheus_client
   - prompt-toolkit
   - prompt_toolkit
