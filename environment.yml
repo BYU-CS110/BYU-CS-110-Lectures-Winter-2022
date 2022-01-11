@@ -61,7 +61,7 @@ dependencies:
   - pyparsing
   - pyqt
   - pyrsistent
-  - python
+  - python=3.9
   - python-dateutil
   - pyzmq
   - qt
